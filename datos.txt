@@ -1,0 +1,6 @@
+photoshop.adobe.com Para arrastrar imagenes
+
+-Extensiones Chrome
+
+ColorPick Eyedropper
+Page Ruler Redux
